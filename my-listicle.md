@@ -3,6 +3,7 @@
 ## Maps
 One of the most difficult parts of Rain World is knowing where to go
 - [Full World Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1405770991)
+
 **Key Places**
 - [Outskirts](https://henpemaz.github.io/Rain-World-Interactive-Map/map.html?region=SU) (starting region)
 - [Five Pebbles](https://henpemaz.github.io/Rain-World-Interactive-Map/map.html?region=SS)
@@ -16,10 +17,10 @@ One of the most difficult parts of Rain World is knowing where to go
 
 ## Survival Tips
 Keep dying to other creatures?
-- [Combat](https://rainworld.miraheze.org/wiki/Controls/Combat)
-- [Movement](https://steamcommunity.com/sharedfiles/filedetails/?id=2113850859)
+- [Combat Tips](https://rainworld.miraheze.org/wiki/Controls/Combat)
+- [Movement Tips](https://steamcommunity.com/sharedfiles/filedetails/?id=2113850859)
 
 ## Base Game Campaign Guides
 Need a bit more help?
-- [Survivor + Monk](https://www.reddit.com/r/rainworld/comments/1bnov2u/guide_lost_in_your_first_playthrough/)
-- [Hunter](https://steamcommunity.com/sharedfiles/filedetails/?id=3113837319)
+- [Survivor + Monk Guide](https://www.reddit.com/r/rainworld/comments/1bnov2u/guide_lost_in_your_first_playthrough/)
+- [Hunter Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3113837319)
