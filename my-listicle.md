@@ -3,6 +3,7 @@
 ## Maps
 One of the most difficult parts of Rain World is knowing where to go
 - [Full World Map](https://steamcommunity.com/sharedfiles/filedetails/?id=1405770991)
+- [List of Regions](https://rainworld.miraheze.org/wiki/Regions)
 
 **Key Places**
 - [Outskirts](https://henpemaz.github.io/Rain-World-Interactive-Map/map.html?region=SU) (starting region)
